@@ -1,1 +1,1 @@
-# React-calulator
+# simple calculator app 
